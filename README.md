@@ -1,6 +1,38 @@
 # Project-522
 2.2 MW hydropower plant in Birsinghpur, Madhya Pradesh of Ascent Hydro Projects Limited (AHPL)
 
+The main purpose of the project activity is to utilize condenser-cooling water and available head
+between the water level in the seal pit and the water level in the return canal for the generation of
+electricity. In SGTPS, there are four units of 210 MW and one unit 500 MW and all the system
+operates on lake storage cooling system. A huge reservoir is available near the thermal power
+station. Cooling water for condensers is drawn from the reservoir on River Johilla through the
+intake canal to the cooling water pump house. Cooling water requirement of 500 MW unit and
+disposal is met through a separate water system. Three (3) pumps are provided in the pump house
+to meet the cooling system requirement of each thermal unit of 210 MW. Each pump has a
+pumping capacity of 10,000 cum/hr. Thus, the total quantity of circulating cooling water for each
+thermal unit is of the order of 30,000 cum/hr.
+
+The Water is circulated through the cooling condensers of the steam generating units by the
+circulating water pumps. After cooling of the condensers, this water is returned back to the
+reservoir by a return canal through the seal pit. Water pumped for cooling of auxiliaries is also discharged through the same seal pit. This discharge is of the order of 30,000 cum/hr for each thermal unit. The total quantity of water available at the seal pit after considering losses of about
+10% will be about 29,700 cum/hr (8.25 Cumecs). The project activity utilizes the return cooling
+water discharged by the SGTPS. The crest level of seal pit is about 9 meters high from the canal
+bed.
+
+The difference of elevation between the water level in the seal pit and the water level in the return
+canal provides the head and the quantity of water discharging from the seal pit provides the flow
+for the Birsinghpur mini hydro power project. This „head‟ is being harnessed to produce electricity
+in the project activity and thus helps in reducing the Green House Gas (GHG) emission. Electricity
+is generated at 3.3 KV and stepped up to 33 KV to feed and wheel through Madhya Pradesh
+Power Transmission Company Ltd (MPPTCL). The total generated electricity by the project activity
+in the current monitoring period is connected to the state grid and is sold to third parties viz; M/s
+Nicholas Piramal and M/s IPCA Laboratories. This project is amongst the first of its kind in the
+country utilizing condenser cooling water for power generation. PP has entered into the Power
+Purchase Agreement (PPA) with Madhya Pradesh Electricity Board for the sale of entire net
+electricity output, on 26th July 1999. However, section 3.3 of the PPA allows net electricity sale to
+either third party/ies (which are HT consumer of the board), on payment of wheeling charges or to
+the electricity board.
+
 Country : India
 
 State : Madhya Pradesh
