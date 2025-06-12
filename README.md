@@ -79,5 +79,92 @@ Renewal Date	04 Feb 23 (Renewable) Provisional (awaiting guidance from the CMP a
 Crediting Period (requested for renewal)	25 Nov 21 - 24 Nov 28
 
 Other crediting period(s): 25 Nov 07 - 24 Nov 14 15 Jun 15 - 24 Nov 21
+
+Host Parties	India 
+
+Authorized Participants: M/s Ascent Hydro Projects Ltd.
+
+Sectoral scopes	1 : Energy industries (renewable - / non-renewable sources)
+
+Activity Scale	SMALL
+
+Methodologies Used	AMS-I.D. ver. 11 - Grid connected renewable electricity generation
+
+Standardized baselines used	N/A
+
+Registration Date	25 Nov 07    
+Crediting Period	25 Nov 07 - 24 Nov 14 (Renewable)
+
+Subsequent crediting period(s): 15 Jun 15 - 24 Nov 21 25 Nov 21 - 24 Nov 28
+__________
+Requests for Issuance
+and related documentation	
+________
+Monitoring report: 25 Nov 2007 - 31 Dec 2008 
+
+Issuance request state: Issued
+
+CERs requested up to 31 December 2012: 14277
+
+Serial Range: Block start: IN-5-124308791-1-1-0-1280      Block end: IN-5-124323067-1-1-0-1280
+__________
+Monitoring report: 01 Jan 2009 - 31 Dec 2011 
+
+Issuance request state: Issued
+
+CERs requested up to 31 December 2012: 38170
+
+Serial Range: Block start: IN-5-155364868-1-1-0-1280      Block end: IN-5-155403037-1-1-0-1280
 ____________
 
+Monitoring report: 01 Jan 2012 - 31 Dec 2012 
+
+Issuance request state: Issued
+
+CERs requested up to 31 December 2012: 14245
+
+Serial Range: Block start: IN-5-180823270-1-1-0-1280      Block end: IN-5-180837514-1-1-0-1280
+____________
+Monitoring report: 01 Jan 2013 - 24 Nov 2014 
+
+Issuance request state: Issued
+
+CERs requested from 01 Jan 2013 until 31 December 2020: 24886
+
+Serial Range: Block start: IN-5-212338691-2-2-0-1280      Block end: IN-5-212363576-2-2-0-1280
+
+____________
+Monitoring report: 15 Jun 2015 - 31 May 2016 
+
+Issuance request state: Issued
+
+CERs requested from 01 Jan 2013 until 31 December 2020: 11352
+
+Serial Range: Block start: IN-5-224520001-2-2-0-1280      Block end: IN-5-224531352-2-2-0-1280
+______________
+Monitoring report: 01 Jun 2016 - 31 Dec 2017 
+
+Issuance request state: Issued
+
+CERs requested from 01 Jan 2013 until 31 December 2020: 17733
+
+Serial Range: Block start: IN-5-248946841-2-2-0-1280      Block end: IN-5-248964573-2-2-0-1280
+____________
+
+Monitoring report: 01 Jan 2018 - 31 Mar 2019 
+
+Issuance request state: Issued
+
+CERs requested from 01 Jan 2013 until 31 December 2020: 17862
+
+Serial Range: Block start: IN-5-267152467-2-2-0-1280      Block end: IN-5-267170328-2-2-0-1280
+_____________
+Monitoring report: 01 Apr 2019 - 31 Dec 2020 
+
+Issuance request state: Issued
+
+CERs requested from 01 Jan 2013 until 31 December 2020: 19054
+
+Serial Range: Block start: IN-5-321646748-2-2-0-1280      Block end: IN-5-321665801-2-2-0-1280
+____________
+Project activity IInd CDM crediting period (last known) 15/06/2015 – 24/11/2021
