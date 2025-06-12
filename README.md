@@ -98,14 +98,26 @@ accounting of carbon credits (i.e., COUs).
 __________
 CDM Project: 1280 2.2 MW hydropower plant in Birsinghpur, Madhya Pradesh of Ascent Hydro Projects Limited (AHPL) - 
 
-Methodologies Used	AMS-I.D. ver. 18 - Grid connected renewable electricity generation
-VVS Version	VVS-PA 3.0
+Methodologies Used	AMS-I.D. ver. 18 - Grid connected renewable electricity generation VVS Version	VVS-PA 3.0
 
 Standardized baselines used	N/A
 
 Amount of Reductions	12,980 metric tonnes CO2 equivalent per annum
 
+Crediting Period : Renewable crediting period (3*7 years).
 
+Start date of the 1st Crediting Period : 25/11/2007
+
+Duration of the 1st Crediting Period : 25/11/2007 – 24/11/2014
+
+Start date of the 2nd Crediting Period : 15/06/2015
+
+Duration of the 2nd Crediting Period : 15/06/2015 – 24/11/2021
+
+Duration of the Current Monitoring Period : 01/04/2019 – 31/12/2020 (under the 2nd crediting
+period)
+
+______________
 Renewal Date	04 Feb 23 (Renewable) Provisional (awaiting guidance from the CMP at CMP 16)   
 
 Crediting Period (requested for renewal)	25 Nov 21 - 24 Nov 28
