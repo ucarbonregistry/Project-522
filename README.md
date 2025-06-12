@@ -80,6 +80,20 @@ AHPL is a subsidiary of Dodson–Lindblom International Inc. (DLI), an USA-based
 company involved in developing and operation of hydroelectric plants. AHPL is operating a 2.2 MW
 small hydroelectric project at Birsinghpur in Madhya Pradesh on Build, Own, Operate and Maintain
 (BOOM) basis for thirty years starting from 24/10/2006. 
+
+The project activity is a small-scale hydro project, following are the key details under the prior history
+of the project:
+
+(a).The project activity is a small-scale hydro project which is registered under CDM with CDM
+project ID 1280 titled “2.2 MW hydropower plant in Birsinghpur, Madhya Pradesh of Ascent
+Hydro Projects Limited (AHPL)”. 1The project has received CERs for all three crediting
+periods lasting from 25/11/2007 to 31/12/2020. Apart from CDM; the project has not achieved
+any registration or issuance under any other GHG mechanism.
+
+(b).The project was not applied under any other GHG mechanism, also for the current period of
+COUs, the CDM verification has also not been initiated. Hence project will not cause double
+accounting of carbon credits (i.e., COUs).
+________________
 __________
 PRIOR HISTORY
 __________
